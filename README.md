@@ -1,4 +1,4 @@
-# isp-network-performance-analysis - End of Year Report
+# isp-network-performance-analysis - end of Year Report
 A full-year performance analysis for a regional Internet Service Provider covering user growth and churn, network uptime, support ticket trends, subscription performance, and revenue by location.
 
 ## Tools Used
